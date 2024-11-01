@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ng-recipe-book-a86ca"
+  },
+  "targets": {
+    "ng-recipe-book-a86ca": {
+      "hosting": {
+        "shopping-app": [
+          "ng-recipe-book-a86ca"
+        ]
+      }
+    }
+  }
+}
